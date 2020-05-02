@@ -6,8 +6,8 @@
     "license": "MIT",
     "homepage": "https://github.com/SukkaW/MyIP#readme",
     "dependencies": {
-        "@babel/core": "7.5.5",
-        "@babel/preset-env": "7.5.5",
+        "@babel/core": "7.9.6",
+        "@babel/preset-env": "7.9.6",
         "gulp": "4.0.2",
         "gulp-babel": "8.0.0",
         "gulp-htmlclean": "2.7.22",
